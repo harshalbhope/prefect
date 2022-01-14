@@ -27,7 +27,7 @@
 
 ## Hello, world! 👋
 
-We've rebuilt data engineering for the data science era.
+We've rebuilt data engineering for the data science era and its a big change forward.
 
 Prefect is a new workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine. Users organize `Tasks` into `Flows`, and Prefect takes care of the rest.
 
@@ -71,7 +71,7 @@ By default, Prefect is configured to use Prefect Cloud as the backend, and you c
 $ prefect backend cloud
 ```
 
-To use Prefect Server as the backend, run the following command to configure Prefect for local orchestration:
+To use Prefect Server as the backend, please run the following command to configure Prefect for local orchestration:
 
 ```bash
 $ prefect backend server
